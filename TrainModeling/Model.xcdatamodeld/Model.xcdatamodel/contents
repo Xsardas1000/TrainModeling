@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16D32" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Railway" representedClassName="Railway" syncable="YES" codeGenerationType="class">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Station" representedClassName="Station" syncable="YES" codeGenerationType="class"/>
+    <elements>
+        <element name="Railway" positionX="-45" positionY="0" width="128" height="60"/>
+        <element name="Station" positionX="-18" positionY="36" width="128" height="45"/>
+    </elements>
+</model>
