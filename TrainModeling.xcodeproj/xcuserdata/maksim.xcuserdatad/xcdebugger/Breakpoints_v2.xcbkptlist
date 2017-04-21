@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrainModeling/ViewController.swift"
+            timestampString = "514476645.404427"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "updateTrains()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainModeling.ViewController.k.getter : Swift.Int"
+                  moduleName = "TrainModeling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Desktop/TrainModeling/TrainModeling/ViewController.swift"
+                  timestampString = "514324479.632767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainModeling.ViewController.k.setter : Swift.Int"
+                  moduleName = "TrainModeling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Desktop/TrainModeling/TrainModeling/ViewController.swift"
+                  timestampString = "514324479.634446"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainModeling.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; TrainModeling.ViewController"
+                  moduleName = "TrainModeling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Desktop/TrainModeling/TrainModeling/ViewController.swift"
+                  timestampString = "514324479.635867"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "839">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainModeling.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TrainModeling.ViewController&gt;"
+                  moduleName = "TrainModeling"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Desktop/TrainModeling/TrainModeling/ViewController.swift"
+                  timestampString = "514324479.637357"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "741">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
