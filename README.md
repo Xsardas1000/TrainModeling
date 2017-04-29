@@ -1,2 +1,2 @@
 # TrainModeling
-![alt text](./trains2.png)
+![alt text](trains2.png)
